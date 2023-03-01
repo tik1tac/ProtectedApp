@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yuran\\source\\repos\\ProtectedApp\\ProtectedApp.csproj": {}
+    "C:\\Users\\Yuran\\Desktop\\ProtectedApp\\ProtectedApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yuran\\source\\repos\\ProtectedApp\\ProtectedApp.csproj": {
+    "C:\\Users\\Yuran\\Desktop\\ProtectedApp\\ProtectedApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yuran\\source\\repos\\ProtectedApp\\ProtectedApp.csproj",
+        "projectUniqueName": "C:\\Users\\Yuran\\Desktop\\ProtectedApp\\ProtectedApp.csproj",
         "projectName": "ProtectedApp",
-        "projectPath": "C:\\Users\\Yuran\\source\\repos\\ProtectedApp\\ProtectedApp.csproj",
+        "projectPath": "C:\\Users\\Yuran\\Desktop\\ProtectedApp\\ProtectedApp.csproj",
         "packagesPath": "C:\\Users\\Yuran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yuran\\source\\repos\\ProtectedApp\\obj\\",
+        "outputPath": "C:\\Users\\Yuran\\Desktop\\ProtectedApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
