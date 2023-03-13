@@ -98,3 +98,6 @@ C:\Users\Yuran\Desktop\ProtectedApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Sys
 C:\Users\Yuran\Desktop\ProtectedApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Yuran\Desktop\ProtectedApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Yuran\Desktop\ProtectedApp\obj\Debug\net7.0\ProtectedApp.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProtectedApp\obj\Debug\net7.0\ProtectedApp.dll
+C:\Users\Admin\Desktop\ProtectedApp\obj\Debug\net7.0\refint\ProtectedApp.dll
+C:\Users\Admin\Desktop\ProtectedApp\obj\Debug\net7.0\ProtectedApp.pdb

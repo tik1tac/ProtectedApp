@@ -2,7 +2,7 @@
 {
     public class User
     {
-        public int Id_user { get; set; }
+        public Guid Id_user { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public string Familia { get; set; }
